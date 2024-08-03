@@ -1,0 +1,14 @@
+/* CadastroAluno.css */
+.cadastro-aluno {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .cadastro-aluno form {
+    margin-bottom: 20px;
+  }
+  
+  .cadastro-aluno .aluno-dados {
+    margin-top: 20px;
+  }
+  

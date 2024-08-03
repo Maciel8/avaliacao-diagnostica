@@ -1,0 +1,15 @@
+/* ListagemAlunos.css */
+.listagem-alunos {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .listagem-alunos ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .listagem-alunos li {
+    margin-bottom: 10px;
+  }
+  
